@@ -1,0 +1,19 @@
+package com.ecom.bookStore.Dao;
+
+import java.util.List;
+
+import org.springframework.stereotype.Component;
+
+import com.ecom.bookStore.Entity.Books;
+import com.ecom.bookStore.Repositries.GetBook;
+
+@Component
+public class GetBooksDao {
+	
+	GetBook getbook;
+	
+	//getting the books
+	public List<Books> getBooks(){
+		return null;
+	}
+}

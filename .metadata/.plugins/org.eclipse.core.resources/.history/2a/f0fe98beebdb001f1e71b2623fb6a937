@@ -1,0 +1,8 @@
+package com.ecom.bookStore.Entity;
+
+//Storing books
+
+
+public class Books {
+
+}

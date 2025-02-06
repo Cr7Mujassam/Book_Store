@@ -1,0 +1,759 @@
+2025-01-22 19:59:49,269 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-22 20:03:38,461 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-22 20:03:43,587 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.4.1/spring-boot-starter-security-3.4.1.pom
+2025-01-22 20:03:43,690 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.4.1/spring-boot-starter-security-3.4.1.pom
+2025-01-22 20:03:43,813 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2.pom
+2025-01-22 20:03:43,834 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2.pom
+2025-01-22 20:03:43,928 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.pom
+2025-01-22 20:03:43,946 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.pom
+2025-01-22 20:03:44,048 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.4.2/spring-security-crypto-6.4.2.pom
+2025-01-22 20:03:44,064 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.4.2/spring-security-crypto-6.4.2.pom
+2025-01-22 20:03:44,168 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.pom
+2025-01-22 20:03:44,186 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.pom
+2025-01-22 20:03:47,290 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.4.2/spring-security-test-6.4.2.pom
+2025-01-22 20:03:47,309 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.4.2/spring-security-test-6.4.2.pom
+2025-01-22 20:03:48,445 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.4.1/spring-boot-starter-security-3.4.1.jar
+2025-01-22 20:03:48,465 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.4.1/spring-boot-starter-security-3.4.1.jar
+2025-01-22 20:03:48,543 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2.jar
+2025-01-22 20:03:48,690 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.4.2/spring-security-test-6.4.2.jar
+2025-01-22 20:03:48,694 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.jar
+2025-01-22 20:03:48,700 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar
+2025-01-22 20:03:48,730 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.4.2/spring-security-crypto-6.4.2.jar
+2025-01-22 20:03:48,870 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.4.2/spring-security-crypto-6.4.2.jar
+2025-01-22 20:03:48,919 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.4.2/spring-security-test-6.4.2.jar
+2025-01-22 20:03:49,378 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar
+2025-01-22 20:03:49,543 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2.jar
+2025-01-22 20:03:50,391 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2.jar
+2025-01-22 20:03:55,645 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.4.1/spring-boot-starter-security-3.4.1-sources.jar
+2025-01-22 20:03:55,663 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.4.1/spring-boot-starter-security-3.4.1-sources.jar
+2025-01-22 20:03:55,678 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.4.1
+2025-01-22 20:03:55,887 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2-sources.jar
+2025-01-22 20:03:56,554 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-01-22 20:03:56,563 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-22 20:03:56,581 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-22 20:03:56,598 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-01-22 20:03:56,609 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-01-22 20:03:57,063 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2-sources.jar
+2025-01-22 20:03:57,093 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:6.4.2
+2025-01-22 20:03:57,287 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar
+2025-01-22 20:03:58,098 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar
+2025-01-22 20:03:58,112 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.4.2
+2025-01-22 20:03:58,333 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.4.2/spring-security-test-6.4.2-sources.jar
+2025-01-22 20:03:58,428 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.4.2/spring-security-test-6.4.2-sources.jar
+2025-01-22 20:03:58,443 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.4.2
+2025-01-22 20:03:58,687 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2-sources.jar
+2025-01-22 20:03:59,079 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2-sources.jar
+2025-01-22 20:03:59,102 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.4.2
+2025-01-22 20:03:59,330 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.4.2/spring-security-crypto-6.4.2-sources.jar
+2025-01-22 20:03:59,419 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.4.2/spring-security-crypto-6.4.2-sources.jar
+2025-01-22 20:03:59,436 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.4.2
+2025-01-22 20:03:59,953 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 37 sec
+2025-01-22 20:04:10,783 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-22 20:04:10,866 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-22 20:04:10,894 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-23 21:35:11,873 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-23 21:35:16,307 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-23 21:35:16,687 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 18:58:22,663 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-25 19:02:48,302 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:02:48,401 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:02:48,420 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:05:05,412 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:05:05,417 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:05:05,441 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:05:54,570 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:05:54,573 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:05:54,588 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:06:39,003 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:06:39,006 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:06:39,026 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:12:06,420 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:12:06,440 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:12:06,474 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:13:52,668 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:13:52,673 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:13:52,687 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:14:51,797 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:14:51,887 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:14:51,951 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:17:28,185 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:17:28,210 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:17:28,226 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:22:16,082 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:22:16,109 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:22:16,125 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:25:06,717 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:25:06,740 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:25:06,752 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:27:04,332 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-25 19:27:10,006 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 19:27:16,235 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-01-25 19:27:16,243 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 19:27:16,246 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 19:27:16,249 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-01-25 19:27:16,252 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-01-25 19:27:17,423 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 11.00 sec, update config takes 1.00 sec 
+2025-01-25 19:27:18,418 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:27:18,479 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:27:18,527 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:28:28,092 [Worker-21: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependency>-->\n\t\t<dependency>... @41:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependency>-->\n\t\t<dependency>... @41:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1474)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2321)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-25 19:28:29,706 [Worker-27: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependency>-->\n\t\t<dependency>... @41:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependency>-->\n\t\t<dependency>... @41:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1474)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2321)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-01-25 19:29:37,986 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 19:29:47,225 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:29:47,230 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:29:47,251 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:29:53,048 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:29:53,136 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:29:53,404 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:33:41,081 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:33:41,132 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:33:41,153 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:35:30,703 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 19:35:33,408 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:35:33,412 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:35:33,447 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:35:35,858 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:35:35,912 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:35:36,073 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:41:49,038 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:41:49,045 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-25 19:41:49,070 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:42:14,299 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:42:14,306 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:42:14,318 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:43:58,579 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:43:58,621 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 19:43:58,638 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:44:33,753 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:44:33,776 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 19:44:33,801 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:47:52,954 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:47:52,960 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:47:52,970 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:54:51,051 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:54:51,057 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:54:51,067 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:55:12,551 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:55:12,557 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:55:12,595 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:55:22,885 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:55:22,890 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 19:55:22,900 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:55:36,008 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:55:36,028 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 19:55:36,045 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:56:05,361 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:56:05,388 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 19:56:05,402 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 19:56:23,819 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-25 19:56:25,279 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 19:56:27,090 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-01-25 19:56:27,092 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 19:56:27,094 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 19:56:27,096 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-01-25 19:56:27,099 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-01-25 19:56:27,816 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2025-01-25 19:56:28,718 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 19:56:28,768 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 19:56:28,820 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:00:07,187 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:00:07,279 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:00:07,314 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:00:12,708 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:00:12,731 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:00:12,779 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:02:27,757 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:02:27,777 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:02:27,798 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:02:38,126 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:02:38,147 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:02:38,162 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:03:09,548 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:03:09,596 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:03:09,611 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:09:00,762 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 20:09:03,947 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.18/tomcat-embed-jasper-10.1.18.pom
+2025-01-25 20:09:04,024 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.18/tomcat-embed-jasper-10.1.18.pom
+2025-01-25 20:09:04,145 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34.pom
+2025-01-25 20:09:04,194 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34.pom
+2025-01-25 20:09:04,828 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.18/tomcat-embed-jasper-10.1.18.jar
+2025-01-25 20:09:05,566 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.18/tomcat-embed-jasper-10.1.18.jar
+2025-01-25 20:09:05,652 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34.jar
+2025-01-25 20:09:05,672 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34.jar
+2025-01-25 20:09:08,107 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 20:09:08,112 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 20:09:08,128 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:09:08,592 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.18/tomcat-embed-jasper-10.1.18-sources.jar
+2025-01-25 20:09:08,982 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.18/tomcat-embed-jasper-10.1.18-sources.jar
+2025-01-25 20:09:09,006 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-jasper:10.1.18
+2025-01-25 20:09:09,205 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34-sources.jar
+2025-01-25 20:09:09,237 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.34/tomcat-annotations-api-10.1.34-sources.jar
+2025-01-25 20:09:09,250 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-annotations-api:10.1.34
+2025-01-25 20:09:10,540 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:09:10,604 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:09:10,731 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:13:53,909 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 20:13:56,325 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.34/tomcat-embed-jasper-10.1.34.pom
+2025-01-25 20:13:56,343 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.34/tomcat-embed-jasper-10.1.34.pom
+2025-01-25 20:13:57,000 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.34/tomcat-embed-jasper-10.1.34.jar
+2025-01-25 20:13:57,592 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.34/tomcat-embed-jasper-10.1.34.jar
+2025-01-25 20:14:00,239 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 20:14:00,244 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 20:14:00,258 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:14:00,764 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.34/tomcat-embed-jasper-10.1.34-sources.jar
+2025-01-25 20:14:01,225 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.34/tomcat-embed-jasper-10.1.34-sources.jar
+2025-01-25 20:14:01,238 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-jasper:10.1.34
+2025-01-25 20:14:02,701 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:14:02,783 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:14:02,992 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:15:16,191 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-25 20:15:17,415 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 20:15:18,958 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-01-25 20:15:18,960 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 20:15:18,962 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 20:15:18,963 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-01-25 20:15:18,966 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-01-25 20:15:19,662 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-01-25 20:15:20,346 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:15:20,392 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:15:20,428 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:29:14,579 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [642])
+2025-01-25 20:29:14,629 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-01-25 20:29:14,649 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-01-25 20:29:14,650 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-01-25 20:29:14,651 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-01-25 20:29:14,676 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-01-25 20:29:14,678 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-01-25 20:29:14,679 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-25 20:29:14,680 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-01-25 20:29:14,682 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-01-25 20:29:14,682 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-01-25 20:29:14,684 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-01-25 20:29:14,685 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-01-25 20:29:14,685 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-01-25 20:29:14,686 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-01-25 20:29:14,687 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-01-25 20:29:14,688 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-01-25 20:29:14,691 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-01-25 20:29:14,693 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-01-25 20:29:14,694 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-01-25 20:29:14,695 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-01-25 20:29:14,698 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-01-25 20:29:14,700 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-01-25 20:29:14,701 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-01-25 20:29:14,704 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-01-25 20:29:14,718 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-01-25 20:29:14,720 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-01-25 20:29:14,721 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-01-25 20:29:14,722 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-01-25 20:29:14,723 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-01-25 20:29:14,724 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-01-25 20:29:14,724 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-01-25 20:29:14,725 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-01-25 20:29:14,726 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-01-25 20:29:14,727 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-01-25 20:29:14,727 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-01-25 20:29:14,728 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-01-25 20:29:14,729 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-01-25 20:29:14,730 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-25 20:29:14,733 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-01-25 20:29:14,734 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-01-25 20:29:14,734 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-01-25 20:29:14,735 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-01-25 20:29:14,736 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-01-25 20:29:14,737 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-01-25 20:29:14,741 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2025-01-25 20:29:14,742 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2025-01-25 20:29:14,743 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1007])
+2025-01-25 20:29:14,744 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2025-01-25 20:29:14,744 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2025-01-25 20:29:14,746 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-25 20:29:14,746 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2025-01-25 20:29:14,748 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-25 20:29:14,749 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-01-25 20:29:14,751 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-25 20:29:14,751 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-25 20:29:14,753 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-25 20:29:14,753 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-01-25 20:29:14,754 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-25 20:29:14,792 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "F:\SpringBootProjects\bookStore":
+2025-01-25 20:29:14,794 [Worker-56: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2025-01-25 20:32:25,281 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:32:25,291 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 20:32:25,303 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:34:55,638 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-25 20:34:56,894 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 20:35:02,684 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-01-25 20:35:02,686 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 20:35:02,688 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-25 20:35:02,690 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-01-25 20:35:02,692 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-01-25 20:35:03,733 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 6.00 sec, update config takes 1.00 sec 
+2025-01-25 20:35:05,244 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 20:35:05,302 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 20:35:05,462 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 20:36:52,293 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 20:36:52,298 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-25 20:36:52,306 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 21:07:03,314 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 21:07:03,344 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 21:07:03,360 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 21:29:09,988 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-25 21:29:13,416 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 21:29:13,486 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 21:29:13,526 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-25 21:29:24,365 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-25 21:29:24,388 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-25 21:29:24,409 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 13:03:59,254 [Worker-139: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-26 13:04:08,863 [Worker-139: Building] ERROR o.e.m.jdt.internal.BuildPathManager - Can't save classpath container state for bookStore
+java.io.FileNotFoundException: F:\SpringBootProjects\.metadata\.plugins\org.eclipse.m2e.jdt\bookStore.container (The system cannot find the path specified)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:289)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:179)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.saveContainerState(BuildPathManager.java:213)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:204)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:188)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:324)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-26 13:04:11,265 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 13:04:11,464 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 13:04:11,831 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 13:07:41,454 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:07:41,461 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:07:41,487 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 13:08:06,205 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:08:06,211 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:08:06,221 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 13:09:49,183 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:09:49,189 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:09:49,201 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 13:10:35,038 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:10:35,043 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 13:10:35,052 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 17:54:21,179 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-26 17:56:09,717 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-26 17:56:22,705 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-01-26 17:56:22,725 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-26 17:56:22,727 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-26 17:56:22,732 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-01-26 17:56:22,736 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-01-26 17:56:24,341 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 27 sec
+2025-01-26 17:56:35,660 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-26 17:56:38,034 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-26 17:56:40,776 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-01-26 17:56:40,778 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-26 17:56:40,781 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-01-26 17:56:40,783 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-01-26 17:56:40,786 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-01-26 17:56:43,682 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 0.00 sec 
+2025-01-26 17:56:47,088 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 17:56:47,181 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 17:56:47,472 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:01:49,226 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:01:49,262 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:01:49,288 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:02:44,816 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:02:44,822 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:02:44,835 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:03:37,584 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 18:03:37,615 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 18:03:37,634 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:04:09,934 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 18:04:09,962 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 18:04:10,011 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:08:05,655 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:08:05,661 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:08:05,677 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:08:41,576 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [642])
+2025-01-26 18:08:41,670 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-01-26 18:08:41,671 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-01-26 18:08:41,672 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-01-26 18:08:41,673 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-01-26 18:08:41,674 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-01-26 18:08:41,675 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-01-26 18:08:41,676 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-26 18:08:41,678 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-01-26 18:08:41,679 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-01-26 18:08:41,680 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-01-26 18:08:41,681 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-01-26 18:08:41,681 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-01-26 18:08:41,682 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-01-26 18:08:41,683 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-01-26 18:08:41,683 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-01-26 18:08:41,684 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-01-26 18:08:41,685 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-01-26 18:08:41,686 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-01-26 18:08:41,686 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-01-26 18:08:41,687 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-01-26 18:08:41,688 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-01-26 18:08:41,690 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-01-26 18:08:41,691 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-01-26 18:08:41,692 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-01-26 18:08:41,693 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-01-26 18:08:41,694 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-01-26 18:08:41,695 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-01-26 18:08:41,697 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-01-26 18:08:41,698 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-01-26 18:08:41,699 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-01-26 18:08:41,701 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-01-26 18:08:41,702 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-01-26 18:08:41,702 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-01-26 18:08:41,703 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-01-26 18:08:41,704 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-01-26 18:08:41,705 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-01-26 18:08:41,706 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-01-26 18:08:41,708 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-26 18:08:41,711 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-01-26 18:08:41,712 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-01-26 18:08:41,714 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-01-26 18:08:41,716 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-01-26 18:08:41,717 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-01-26 18:08:41,722 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-01-26 18:08:41,727 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2025-01-26 18:08:41,729 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2025-01-26 18:08:41,729 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1007])
+2025-01-26 18:08:41,731 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2025-01-26 18:08:41,731 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2025-01-26 18:08:41,733 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-26 18:08:41,733 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2025-01-26 18:08:41,734 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-26 18:08:41,735 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-01-26 18:08:41,737 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-26 18:08:41,737 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-26 18:08:41,738 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-26 18:08:41,739 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-01-26 18:08:41,740 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-26 18:08:41,760 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "F:\SpringBootProjects\bookStore":
+2025-01-26 18:08:41,763 [Worker-8: Launching Executing clean in F__SpringBootProjects_bookStore] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2025-01-26 18:09:06,317 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 18:09:06,325 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 18:09:06,664 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:10:01,394 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [642])
+2025-01-26 18:10:01,397 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-01-26 18:10:01,399 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-01-26 18:10:01,403 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-01-26 18:10:01,404 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-01-26 18:10:01,405 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-01-26 18:10:01,407 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-01-26 18:10:01,409 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-26 18:10:01,411 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-01-26 18:10:01,413 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-01-26 18:10:01,415 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-01-26 18:10:01,416 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-01-26 18:10:01,419 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-01-26 18:10:01,423 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-01-26 18:10:01,425 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-01-26 18:10:01,427 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-01-26 18:10:01,428 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-01-26 18:10:01,430 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-01-26 18:10:01,431 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-01-26 18:10:01,432 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-01-26 18:10:01,433 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-01-26 18:10:01,435 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-01-26 18:10:01,436 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-01-26 18:10:01,437 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-01-26 18:10:01,441 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-01-26 18:10:01,443 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-01-26 18:10:01,446 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-01-26 18:10:01,447 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-01-26 18:10:01,449 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-01-26 18:10:01,451 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-01-26 18:10:01,452 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-01-26 18:10:01,453 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-01-26 18:10:01,455 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-01-26 18:10:01,456 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-01-26 18:10:01,457 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-01-26 18:10:01,459 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-01-26 18:10:01,461 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-01-26 18:10:01,462 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-01-26 18:10:01,463 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-26 18:10:01,465 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-01-26 18:10:01,466 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-01-26 18:10:01,467 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-01-26 18:10:01,468 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-01-26 18:10:01,469 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-01-26 18:10:01,470 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-01-26 18:10:01,472 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2025-01-26 18:10:01,474 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2025-01-26 18:10:01,475 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1007])
+2025-01-26 18:10:01,476 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2025-01-26 18:10:01,477 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2025-01-26 18:10:01,478 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-26 18:10:01,479 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2025-01-26 18:10:01,481 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-26 18:10:01,481 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-01-26 18:10:01,483 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-01-26 18:10:01,484 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-01-26 18:10:01,485 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-26 18:10:01,486 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-01-26 18:10:01,489 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91725\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-26 18:10:01,496 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "F:\SpringBootProjects\bookStore":
+2025-01-26 18:10:01,496 [Worker-10: Launching Executing install in F__SpringBootProjects_bookStore] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2025-01-26 18:13:29,144 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:13:29,149 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:13:29,160 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:15:24,695 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:15:24,700 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:15:24,711 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:17:12,380 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:17:12,385 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:17:12,397 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:31:52,037 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:31:52,042 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:31:52,067 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:32:39,045 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:32:39,050 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:32:39,063 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:33:06,267 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:33:06,276 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:33:06,288 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:34:03,312 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:34:03,317 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:34:03,330 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:34:37,955 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:34:37,960 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:34:37,973 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:35:28,207 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:35:28,211 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:35:28,225 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:44:07,474 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:44:07,479 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:44:07,490 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:49:08,881 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:49:08,886 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:49:08,900 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:51:16,719 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:51:16,727 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:51:16,740 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 18:52:15,894 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:52:15,898 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 18:52:15,914 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:05:18,130 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:05:18,329 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:05:18,378 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:07:03,786 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:07:04,440 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:07:04,458 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:07:47,233 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:07:47,413 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:07:47,436 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:08:02,606 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:08:02,768 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:08:02,782 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:08:40,626 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-01-26 19:08:48,535 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 19:08:48,540 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 19:08:48,568 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:08:52,606 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:08:52,717 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:08:53,194 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:15:03,861 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:15:03,949 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:15:03,966 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:15:30,808 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:15:30,875 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:15:30,891 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:16:16,121 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:16:16,143 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:16:16,161 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:17:59,579 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:17:59,601 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:17:59,621 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:18:22,473 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:18:22,497 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:18:22,515 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:18:29,236 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:18:29,293 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:18:29,315 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:19:08,054 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:19:08,079 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:19:08,097 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:19:34,014 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:19:34,129 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 19:19:34,141 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:20:16,764 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.12; built: 2024-07-25T21:58:37.668Z; git: cc6f1b74db755fed228b50701ad967aeaa68e83f; jvm 21.0.5+11-LTS
+2025-01-26 19:20:17,008 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@236728e1{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@5a7ac193{STARTED}}
+2025-01-26 19:20:17,011 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-01-26 19:20:17,107 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7d1910aa{HTTP/1.1, (http/1.1)}{127.0.0.1:55184}
+2025-01-26 19:20:17,194 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@5c4d3391{STARTING}[12.0.12,sto=0] @5319290ms
+2025-01-26 19:22:53,930 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:22:53,984 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:22:54,002 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:23:42,978 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:23:43,003 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:23:43,019 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:24:54,602 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:24:54,642 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:24:54,661 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:25:20,015 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:25:20,036 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:25:20,052 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:26:00,920 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:26:00,947 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:26:00,994 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:28:27,171 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:28:27,195 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:28:27,213 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:28:44,438 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:28:44,459 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:28:44,479 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:30:01,508 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:30:01,529 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:30:01,545 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:36:00,479 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:36:00,498 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:36:00,511 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:45:29,873 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:45:29,894 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:45:29,910 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:51:17,493 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:51:17,522 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:51:17,537 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:52:36,012 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:52:36,038 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:52:36,053 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:56:15,444 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 19:56:15,466 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-01-26 19:56:15,481 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 19:59:35,135 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 19:59:35,139 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 19:59:35,148 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 20:02:56,449 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 20:02:56,456 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 20:02:56,465 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 20:06:23,356 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 20:06:23,360 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 20:06:23,370 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 21:36:57,675 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 21:36:57,679 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 21:36:57,691 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 21:45:34,033 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 21:45:34,039 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-01-26 21:45:34,065 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 21:46:09,595 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 21:46:09,599 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 21:46:09,637 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 21:46:26,732 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 21:46:26,738 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-26 21:46:26,754 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 22:01:25,829 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 22:01:25,836 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 22:01:25,848 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-26 22:17:10,534 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 22:17:10,539 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 22:17:10,548 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources
+2025-01-28 23:01:18,941 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@5c4d3391{STOPPING}[12.0.12,sto=0]
+2025-01-28 23:01:19,114 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7d1910aa{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-01-29 15:57:45,968 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-04 02:01:39,609 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-04 02:01:48,303 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom:bookStore:0.0.1-SNAPSHOT @ F:\SpringBootProjects\bookStore\pom.xml.
+2025-02-04 02:01:56,757 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/main/java
+2025-02-04 02:01:56,767 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-02-04 02:01:56,770 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/main/resources
+2025-02-04 02:01:56,772 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookStore/src/test/java
+2025-02-04 02:01:56,777 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookStore/src/test/resources
+2025-02-04 02:01:59,351 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 15.00 sec, update config takes 2.00 sec 
+2025-02-04 02:02:01,927 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-04 02:02:02,015 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources from src\main\resources to target\classes
+2025-02-04 02:02:02,303 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\SpringBootProjects\bookStore\src\test\resources

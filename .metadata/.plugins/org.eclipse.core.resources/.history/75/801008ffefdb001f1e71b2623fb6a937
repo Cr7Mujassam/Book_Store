@@ -1,0 +1,16 @@
+package com.ecom.bookStore.Service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.ecom.bookStore.Entity.Books;
+
+@Service
+public class GetAllBooksService {
+	
+	//getting books
+	public List<Books> getBooks(){
+		return null;
+	}
+}

@@ -1,0 +1,9 @@
+package com.ecom.bookStore.Repositries;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.ecom.bookStore.Entity.Books;
+
+interface GetBook extends JpaRepository<Books, Long>{
+
+}

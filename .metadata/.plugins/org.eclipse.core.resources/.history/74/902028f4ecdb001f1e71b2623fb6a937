@@ -1,0 +1,12 @@
+package com.ecom.bookStore.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+//It will get all the books and send to UI
+@RestController
+public class GetBookController {
+		
+	//getting all the books
+	//public List<Books>
+	
+}
